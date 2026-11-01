@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLOmLBzWpxg=",
+  "success": true,
+  "projectFilePath": "/home/dell/Learning/DotNet/MyFirstAPI/MyFirstAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/dell/.nuget/packages/microsoft.aspnetcore.openapi/10.0.14/microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "/home/dell/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
